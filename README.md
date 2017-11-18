@@ -16,6 +16,7 @@ Sample Output
 
 0
 1
+
 Explanation 
 1. We compare an empty list with a list containing 1. They don't match, hence return 0. 
 2. We have 2 similar lists. Hence return 1.
